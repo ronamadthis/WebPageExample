@@ -1,2 +1,2 @@
-# ronamadthis1.github.io
+# ronamadthis.github.io
 Hosting jupyter notebook file from Project3
